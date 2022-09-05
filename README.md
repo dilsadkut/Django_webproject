@@ -1,4 +1,4 @@
-# webproject
+# Django_webproject
 
 Within the scope of the Bilge Adam Yetiştirme Programı Python Eğitimi, I made a small application about product tracking and management in this web project. 
 I used Python's Django Web Development Framework during the project development stages.
