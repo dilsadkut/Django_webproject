@@ -1,7 +1,7 @@
 # webproject
 
 Within the scope of the Bilge Adam Yetiştirme Programı Python Eğitimi, I made a small application about product tracking and management in this web project. 
-I used MySQL as database and got help from Bootstrap css library for styles.
+I used Python Django Framework and MySQL as database and got help from Bootstrap css library for styles.
 
 ## Home page
 ![Alt text](images/1.png)
