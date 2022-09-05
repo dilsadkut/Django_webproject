@@ -1,8 +1,8 @@
 # Django_webproject
 
-Within the scope of the Bilge Adam Yetiştirme Programı Python Eğitimi, I made a small application about product tracking and management in this web project. 
+Within the scope of the "Bilge Adam Yetiştirme Programı Python Eğitimi", I made a small application about product tracking and management in this web project. 
 I used Python's Django Web Development Framework during the project development stages.
-I used MySQL as database and got help from Bootstrap css library for styles.
+Also, I used MySQL as database and got help from Bootstrap css library for styles.
 
 ## To run the project
 ### windows
